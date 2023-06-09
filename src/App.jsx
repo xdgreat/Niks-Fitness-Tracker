@@ -1,5 +1,5 @@
 import "./App.css";
-import "./Reset.css";
+import "./reset.css";
 import NavBar from "./componenets/NavBar";
 
 function App() {
