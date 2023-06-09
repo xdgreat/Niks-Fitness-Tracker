@@ -1,0 +1,204 @@
+[
+  {
+    "Day1": {
+      "Focus": "Bench Press",
+      "Exercises": [
+        {
+          "Name": "Bench Press",
+          "Sets": 5,
+          "Reps": 5,
+          "Weight": "80-85% 1RM"
+        },
+        {
+          "Name": "Incline Dumbbell Press",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Dips",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Triceps Pushdowns",
+          "Sets": 3,
+          "Reps": 12
+        },
+        {
+          "Name": "Core Work",
+          "Sets": 3,
+          "Reps": 10,
+          "Exercise": "Planks or Weighted Crunches"
+        }
+      ]
+    },
+    "Day2": {
+      "Focus": "Deadlift",
+      "Exercises": [
+        {
+          "Name": "Deadlift",
+          "Sets": 5,
+          "Reps": 3,
+          "Weight": "85-90% 1RM"
+        },
+        {
+          "Name": "Romanian Deadlift",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Bent-over Rows",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Pull-ups",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Biceps Curls",
+          "Sets": 3,
+          "Reps": 12
+        },
+        {
+          "Name": "Core Work",
+          "Sets": 3,
+
+          "Reps": 10,
+          "Exercise": "Hanging Leg Raises or Russian Twists"
+        }
+      ]
+    },
+    "Day3": {
+      "Focus": "Squat",
+      "Exercises": [
+        {
+          "Name": "Squat",
+          "Sets": 5,
+          "Reps": 5,
+          "Weight": "80-85% 1RM"
+        },
+        {
+          "Name": "Front Squat",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Leg Press",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Walking Lunges",
+          "Sets": 3,
+          "Reps": 12
+        },
+        {
+          "Name": "Calf Raises",
+          "Sets": 3,
+          "Reps": 15
+        },
+        {
+          "Name": "Core Work",
+          "Sets": 3,
+          "Reps": 10,
+          "Exercise": "Medicine Ball Slams or Reverse Crunches"
+        }
+      ]
+    },
+    "Day4": {
+      "Focus": "Bench Press Assistance",
+      "Exercises": [
+        {
+          "Name": "Bench Press",
+          "Sets": 4,
+          "Reps": 8,
+          "Weight": "70-75% 1RM"
+        },
+        {
+          "Name": "Close-grip Bench Press",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Incline Dumbbell Flyes",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Overhead Press",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Triceps Extensions",
+          "Sets": 3,
+          "Reps": 12
+        }
+      ]
+    },
+    "Day5": {
+      "Focus": "Deadlift Assistance",
+      "Exercises": [
+        {
+          "Name": "Deadlift",
+          "Sets": 4,
+          "Reps": 5,
+          "Weight": "75-80% 1RM"
+        },
+        {
+          "Name": "Romanian Deadlift",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Bent-over Rows",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Pull-ups or Lat Pulldowns",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Biceps Curls",
+          "Sets": 3,
+          "Reps": 12
+        }
+      ]
+    },
+    "Day6": {
+      "Focus": "Squat Assistance",
+      "Exercises": [
+        {
+          "Name": "Squat",
+          "Sets": 4,
+          "Reps": 8,
+          "Weight": "70-75% 1RM"
+        },
+        {
+          "Name": "Front Squat",
+          "Sets": 3,
+          "Reps": 8
+        },
+        {
+          "Name": "Leg Press",
+          "Sets": 3,
+          "Reps": 10
+        },
+        {
+          "Name": "Walking Lunges",
+          "Sets": 3,
+          "Reps": 12
+        },
+        {
+          "Name": "Calf Raises",
+          "Sets": 3,
+          "Reps": 15
+        }
+      ]
+    }
+  }
+]

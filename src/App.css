@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+
+:root {
+  --bg-clr: #171717;
+  --font-clr: #ed1c24;
+  --font-clr-secondary: #fdfffc;
+}
+body {
+  background-color: var(--bg-clr);
+  color: var(--font-clr);
+  font-family: "Comfortaa", cursive;
+}
+
+.container {
+  color: var(--font-clr-secondary);
+  padding: 2em;
+  width: 20em;
+  height: 30em;
+  border-radius: 30px;
+  background: #212121;
+  box-shadow: 15px 15px 30px rgb(25, 25, 25),
+              -15px -15px 30px rgb(60, 60, 60);
+  outline: 1px solid;
+  margin-top: 5em;
+}
